@@ -22,6 +22,6 @@ namespace MyFirstProject
         char grade = 'A';
 
         string firstName = ""; //Can be null
-      //char dtx = "";  Can not be null
+        //char dtx = "";  Can not be null
     }
 }
