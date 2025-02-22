@@ -55,5 +55,33 @@ namespace MyFirstProject
         //Boolean values
         bool status = true;
 
+        //************************************************************
+
+        //Var keyword  
+        //It can kill the readability of code base 
+        //We can use any data type using var keyword. but if we use var keyword we should do the initalinzation and decalration in one line
+
+        void display2()
+        {
+            var age = 23;
+            var big = 3434343L;
+            var a = 343.3434D;
+            var b = 34.43F;
+            var money = 3434343434M;
+            var name = "Weditha";
+            var grade = 'A';
+        }
+
+        //**************************************************************************
+
+        //Constant 
+        const int vat = 20;
+
+        //Storing user data
+        int num = 0123; //This will save  as "123" .To avoid that we can use string or var
+        string num1 = "0123";
+        //var num3 = "0123";
+
+
     }
 }
