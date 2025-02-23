@@ -10,7 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            TimeTable a = new TimeTable();
+            FizzBuzzGame a = new FizzBuzzGame();
             a.display();
         }
     }
