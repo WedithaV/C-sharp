@@ -10,7 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            TryParseFunction a = new TryParseFunction();
+            TimeTable a = new TimeTable();
             a.display();
         }
     }
