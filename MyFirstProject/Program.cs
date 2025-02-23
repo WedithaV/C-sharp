@@ -10,7 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            StringFormating a = new StringFormating();
+            StringEmpty a = new StringEmpty();
             a.display();
         }
     }

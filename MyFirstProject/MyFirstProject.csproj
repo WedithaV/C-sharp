@@ -50,6 +50,7 @@
     <Compile Include="NumericFormating.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringEmpty.cs" />
     <Compile Include="StringFormating.cs" />
     <Compile Include="TimeTable.cs" />
     <Compile Include="TryParseFunction.cs" />
