@@ -10,7 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            FizzBuzzGame a = new FizzBuzzGame();
+            VerbatimStringLiteral a = new VerbatimStringLiteral();
             a.display();
         }
     }
