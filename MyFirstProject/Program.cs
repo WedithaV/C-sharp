@@ -10,7 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            VerbatimStringLiteral a = new VerbatimStringLiteral();
+            StringFormating a = new StringFormating();
             a.display();
         }
     }
