@@ -9,8 +9,8 @@ namespace MyFirstProject
     class Program
     {
         static void Main(string[] args)
-        {    
-            NumericFormating a = new NumericFormating();
+        {
+            TryParseFunction a = new TryParseFunction();
             a.display();
         }
     }
