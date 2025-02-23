@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace MyFirstProject
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
-        {        
+        {    
+            IfCondition a = new IfCondition();
+            a.calcAge();
         }
     }
 }
