@@ -20,6 +20,9 @@ namespace MyFirstProject
 
             //string interpolation
             Console.WriteLine($"Your name is {name}, your age is {age}");
+
+            //string concat
+            Console.WriteLine(string.Concat("Your name is ", name, ", your age is ", age));
         }
     }
 }
