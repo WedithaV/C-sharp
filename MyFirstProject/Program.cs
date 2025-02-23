@@ -10,7 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            StringEmpty a = new StringEmpty();
+            StringEqualFunction a = new StringEqualFunction();
             a.display();
         }
     }
