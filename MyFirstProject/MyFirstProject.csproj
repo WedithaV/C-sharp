@@ -46,6 +46,7 @@
     <Compile Include="ConsoleIO.cs" />
     <Compile Include="DataTypes.cs" />
     <Compile Include="IfCondition.cs" />
+    <Compile Include="NumericFormating.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

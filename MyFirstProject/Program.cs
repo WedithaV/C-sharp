@@ -10,8 +10,8 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {    
-            IfCondition a = new IfCondition();
-            a.calcAge();
+            NumericFormating a = new NumericFormating();
+            a.display();
         }
     }
 }
