@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyFirstProject
 {
-    class Program
+    internal class StringIterationLoop
     {
-        static void Main(string[] args)
-        {
-            StringIteration a = new StringIteration();
-            a.display();
-        }
     }
 }

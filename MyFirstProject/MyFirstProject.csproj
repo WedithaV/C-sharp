@@ -53,6 +53,7 @@
     <Compile Include="StringEmpty.cs" />
     <Compile Include="StringEqualFunction.cs" />
     <Compile Include="StringFormating.cs" />
+    <Compile Include="StringIteration.cs" />
     <Compile Include="TimeTable.cs" />
     <Compile Include="TryParseFunction.cs" />
     <Compile Include="VerbatimStringLiteral.cs" />
